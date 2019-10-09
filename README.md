@@ -11,7 +11,7 @@
   
   # Screenshots
 
-![alt text](screenshots/ss1.png)
-![alt text](screenshots/ss2.png)
-![alt text](screenshots/ss3.png)
-![alt text](screenshots/ss4.png)
+![alt text](screenshots/ss1.jpg)
+![alt text](screenshots/ss2.jpg)
+![alt text](screenshots/ss3.jpg)
+![alt text](screenshots/ss4.jpg)
